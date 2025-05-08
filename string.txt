@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(){
+     char s[12] = { 'n', 'a', 'l', 'l', 'a','t','h','a','m','b','i','\0'};
+     printf("%s", s);
+     return 0;
+}
+     
